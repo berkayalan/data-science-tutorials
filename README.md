@@ -22,3 +22,18 @@
 - Grade System User Interaction Example
 - Nested If
 - Odd or Even Example
+
+### Loops
+
+- range()
+- In Operator
+- For Loop
+- Iterating in Strings
+- Iterating in two(2) dimensional Lists
+- continue
+- break
+- zip()
+- Iteration in a Dictionary
+- Iterating pair values
+- While Loop
+- While True
