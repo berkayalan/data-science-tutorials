@@ -37,3 +37,17 @@
 - Iterating pair values
 - While Loop
 - While True
+
+### Functions
+
+- Intro to Functions
+- return()
+- Number of Arguments
+- Arbitrary Arguments, *args
+- Arbitrary Keyword Arguments, **kwargs
+- Giving output with Information
+- Functions that have 2 parameters
+- Predefined Parameters in Functions
+- Local and Global Variables
+- Changing global variables in local area
+- Pass Statement
