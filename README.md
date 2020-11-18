@@ -1,53 +1,55 @@
 # Data Science Basics, Tutorials and Functions
 
-### Introduction to Python
+### Python Basics
 
-- Data Types
-- Built-in Functions
-- Type Converting
-- Getting Input from users
+#### Introduction to Python
 
-### Data Structures
+      - Data Types
+      - Built-in Functions
+      - Type Converting
+      - Getting Input from users
 
-- Lists
-- Tuples
-- Dictionaries
-- Sets
+#### Data Structures
 
-### Conditional Statements
+      - Lists
+      - Tuples
+      - Dictionaries
+      - Sets
 
-- Boolean Expressions
-- Logical Operators
-- If-Else
-- Grade System User Interaction Example
-- Nested If
-- Odd or Even Example
+#### Conditional Statements
 
-### Loops
+      - Boolean Expressions
+      - Logical Operators
+      - If-Else
+      - Grade System User Interaction Example
+      - Nested If
+      - Odd or Even Example
 
-- range()
-- In Operator
-- For Loop
-- Iterating in Strings
-- Iterating in two(2) dimensional Lists
-- continue
-- break
-- zip()
-- Iteration in a Dictionary
-- Iterating pair values
-- While Loop
-- While True
+#### Loops
 
-### Functions
+      - range()
+      - In Operator
+      - For Loop
+      - Iterating in Strings
+      - Iterating in two(2) dimensional Lists
+      - continue
+      - break
+      - zip()
+      - Iteration in a Dictionary
+      - Iterating pair values
+      - While Loop
+      - While True
 
-- Intro to Functions
-- return()
-- Number of Arguments
-- Arbitrary Arguments, *args
-- Arbitrary Keyword Arguments, **kwargs
-- Giving output with Information
-- Functions that have 2 parameters
-- Predefined Parameters in Functions
-- Local and Global Variables
-- Changing global variables in local area
-- Pass Statement
+#### Functions
+
+      - Intro to Functions
+      - return()
+      - Number of Arguments
+      - Arbitrary Arguments, *args
+      - Arbitrary Keyword Arguments, **kwargs
+      - Giving output with Information
+      - Functions that have 2 parameters
+      - Predefined Parameters in Functions
+      - Local and Global Variables
+      - Changing global variables in local area
+      - Pass Statement
