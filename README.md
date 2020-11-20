@@ -53,3 +53,21 @@
       - Local and Global Variables
       - Changing global variables in local area
       - Pass Statement
+      
+
+#### Object Oriented Programming      
+      
+      - What is object oriented programming?
+      - Defining Classes
+      - Instantiation - Creating objects
+      - Class and Instance Attributes
+      - Instance(Object) Methods
+      - Inheritance
+      - Overriding - Extending the Functionality of a Parent Class
+      - super() keyword
+      
+      
+      
+      
+      
+      
