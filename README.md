@@ -65,7 +65,30 @@
       - Inheritance
       - Overriding - Extending the Functionality of a Parent Class
       - super() keyword
-      
+   
+#### Numpy
+
+      - What is Numpy?
+      - Importing Numpy
+      - Numpy arrays and Dimensions
+      - Creating Numpy Arrays
+          - Zero arrays
+          - Ones arrays
+          - Full arrays
+          - Identify Matrixes
+          - Linear Series
+          - Distributions arrays - Random
+      - Array Indexing
+      - Subsets
+      - reshape() function
+      - Flattening the Arrays
+      - Concatenation
+      - Splitting
+      - Sorting
+      - Broadcasting
+      - Array Math
+      - Dot(Scalar) Product
+    
       
       
       
