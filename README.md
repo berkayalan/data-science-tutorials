@@ -114,12 +114,12 @@
             - Noisy Data
             - Missing Data Analysis
             - Outlier Detection
-      - Data Standardization / Feature Scaling**
+      - Data Standardization / Feature Scaling
             - Normalization(0-1 Scaling)
             - Standardization(Z Score Scaling)
             - Min-Max Scaling
             - Binary Transformation
-      - Variable Transformation**
+      - Variable Transformation
             - Label Encoding
             - One Hot Encoding
 
@@ -129,7 +129,7 @@
        - Main Libraries for Data Visualisation
        - What is Exploratory data analysis(EDA)?
        - Importing Libraries
-       - **Matplotlib**
+       - Matplotlib
            - Pyplot
            - Line Plot
            - Bar Plot
@@ -141,7 +141,7 @@
            - Box Plot 
            - Heatmap
        
-       - **Seaborn**
+       - Seaborn
            - Pyplot
            - Line Plot
            - Bar Plot
@@ -155,7 +155,7 @@
            - Heatmap
            - Multi-plot Grids
           
-       - **Pandas**
+       - Pandas
            - Basic Plots
            - Bar Plots
            - Histograms
@@ -166,7 +166,7 @@
            - Pie Plots
            - Plotting Tools
        
-       - **Plotnine - ggplot**
+       - Plotnine - ggplot
            - Line Plot
            - Bar Plot
            - Scatter Plot
@@ -175,7 +175,7 @@
            - Box Plot
            - Violin Plot
        
-       - **Plotly**
+       - Plotly
            - Line Plot
            - Bar Plot
            - Pie Charts
