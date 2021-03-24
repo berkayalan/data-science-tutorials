@@ -107,7 +107,23 @@
        - Missing values(NaN)
        - Working external files in Pandas(csv,excel)
        - Exploring Netflix Dataset(basic)
-    
+
+  #### Data Preprocessing-Cleaning
+  
+      - Data Cleaning / Cleasing
+            - Noisy Data
+            - Missing Data Analysis
+            - Outlier Detection
+      - Data Standardization / Feature Scaling**
+            - Normalization(0-1 Scaling)
+            - Standardization(Z Score Scaling)
+            - Min-Max Scaling
+            - Binary Transformation
+      - Variable Transformation**
+            - Label Encoding
+            - One Hot Encoding
+
+
   #### Data Visualization
 
        - Main Libraries for Data Visualisation
