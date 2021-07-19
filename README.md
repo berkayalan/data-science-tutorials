@@ -186,21 +186,6 @@
            - Sunburst Charts
            - Tables
        
-       
-   #### Deep Learning with Pytorch 
-       
-      - What is Pytorch?
-      - Importing Libraries
-      - Basics of Pytorch
-      - Tensors
-      - Math Operations
-      - Common Funtions
-      - Variables - Autograd
-      - Datasets & DataLoaders
-      - Common Modules: Optim - nn
-      - Extra - Useful Resources
-     
-     
      
    #### Linear Methods for Regression
    
@@ -216,3 +201,16 @@
           - Lasso Regression(L1 Regularization) (Theory - Model- Tuning)
           - Elastic Net Regression (Theory - Model- Tuning)
   
+
+   #### Deep Learning with Pytorch 
+       
+      - What is Pytorch?
+      - Importing Libraries
+      - Basics of Pytorch
+      - Tensors
+      - Math Operations
+      - Common Funtions
+      - Variables - Autograd
+      - Datasets & DataLoaders
+      - Common Modules: Optim - nn
+      - Extra - Useful Resources
