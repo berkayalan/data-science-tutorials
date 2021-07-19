@@ -200,3 +200,19 @@
       - Common Modules: Optim - nn
       - Extra - Useful Resources
      
+     
+     
+   #### Linear Methods for Regression
+   
+      - What is Linear Regression?
+      - Simple Linear Regression (Theory - Model- Tuning)
+      - Multiple Linear Regression (Theory - Model- Tuning)
+      - Least-Squares Regression(Ordinary Least Squares) (Theory - Model- Tuning)
+      - Principal Component Analysis (PCA) 
+      - Principal component regression(PCR) (Theory - Model- Tuning)
+      - Shrinkage(Regularization) Methods
+          - Partial Least Squares (Theory - Model- Tuning)
+          - Ridge Regression(L2 Regularization) (Theory - Model- Tuning)
+          - Lasso Regression(L1 Regularization) (Theory - Model- Tuning)
+          - Elastic Net Regression (Theory - Model- Tuning)
+  
