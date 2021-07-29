@@ -201,6 +201,18 @@
           - Lasso Regression(L1 Regularization) (Theory - Model- Tuning)
           - Elastic Net Regression (Theory - Model- Tuning)
   
+  #### Non-Linear Models for Regression
+
+      - K - Nearest Neighbors(KNN) (Theory - Model- Tuning)
+      - Support Vector Regression(SVR) (Theory - Model- Tuning)
+      - Non-Linear Support Vector Regression(SVR) (Theory - Model- Tuning)
+      - Regression(Decision) Trees (CART) (Theory - Model- Tuning)
+      - Ensemble Learning - Bagged Trees(Bagging) (Theory - Model- Tuning)
+      - Ensemble Learning - Random Forests (Theory - Model- Tuning)
+      - Gradient Boosting Machines(GBM)  (Theory - Model- Tuning)
+      - Light Gradient Boosting Machines(LGBM)  (Theory - Model- Tuning)
+      - XGBoost(Extreme Gradient Boosting)  (Theory - Model- Tuning)
+      - Catboost  (Theory - Model- Tuning)
 
    #### Deep Learning with Pytorch 
        
