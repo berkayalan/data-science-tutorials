@@ -222,7 +222,19 @@
       - Hierarchical Clustering (Theory - Model)
       - DBSCAN (Density-based spatial clustering) (Theory - Model- Tuning)
       - Principal Components Analysis(PCA) (Theory - Manual Implementation of PCA - Model)   
+      
+   #### Classification**
 
+      - Classification and Evaluation Metrics
+      - Logistic Regression (Theory - Model- Tuning)
+      - K - Nearest Neighbors(KNN) (Theory - Model- Tuning)
+      - Support Vector Machines(SVC) - Linear Kernel (Theory - Model- Tuning)
+      - Support Vector Machines(SVC) - Radial Basis Kernel (Theory - Model- Tuning)
+      - Decision Tree Classification (Theory - Model- Tuning)
+      - Ensemble Learning - Random Forests Classification (Theory - Model- Tuning)
+      - Naive Bayes Classification (Theory - Model)
+      - XGBoost(Extreme Gradient Boosting) Classification (Theory - Model- Tuning)
+      
    #### Deep Learning with Pytorch 
        
       - What is Pytorch?
