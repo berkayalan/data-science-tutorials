@@ -247,3 +247,12 @@
       - Datasets & DataLoaders
       - Common Modules: Optim - nn
       - Extra - Useful Resources
+      
+   #### Model Deployment
+       
+      - What is Joblib Library?
+      - Artificial Neural Networks(ANN) Model
+      - Prediction
+      - Model Tuning & Validation
+      - Saving Model as pickle file
+      - Loading Model
