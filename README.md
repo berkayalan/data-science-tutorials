@@ -233,7 +233,9 @@
       - Decision Tree Classification (Theory - Model- Tuning)
       - Ensemble Learning - Random Forests Classification (Theory - Model- Tuning)
       - Naive Bayes Classification (Theory - Model)
+      - GBM(Gradient Boosting Machines) Classification (Model- Tuning)
       - XGBoost(Extreme Gradient Boosting) Classification (Theory - Model- Tuning)
+      - LGBM(Light Gradient Boosting Machines) Classification (Theory - Model- Tuning)
       
    #### Deep Learning with Pytorch 
        
