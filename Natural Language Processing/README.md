@@ -1,6 +1,4 @@
-These subjects will be covered soon!
-
-- NLP Intuition
+**Current Subjects**
 
 - String Essentials : Creating String
 
@@ -24,7 +22,11 @@ These subjects will be covered soon!
 
 - String Essentials : contains
 
-- String Essentials :
+***
+
+**These subjects will be covered soon!**
+
+- NLP Intuition
 
 - Text Preprocessing : Converting string to other data types
 
