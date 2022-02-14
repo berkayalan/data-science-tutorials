@@ -22,12 +22,6 @@
 
 - String Essentials : contains
 
-***
-
-**These subjects will be covered soon!**
-
-- NLP Intuition
-
 - Text Preprocessing : Converting string to other data types
 
 - Text Preprocessing : Case Conversion
@@ -45,6 +39,12 @@
 - Text Preprocessing : Stemming
 
 - Text Preprocessing : Lemmatization
+
+***
+
+**These subjects will be covered soon!**
+
+- NLP Intuition
 
 - Computational Linguistics Applications : N-Gram
 
