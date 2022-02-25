@@ -40,6 +40,8 @@
 
 - Text Preprocessing : Lemmatization
 
+- Object Standardization
+
 - Linguistic Features: N-Gram
 
 - Linguistic Features: Part of speech tagging (POS)
