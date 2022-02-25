@@ -283,10 +283,13 @@
       - Text Preprocessing : Tokenization
       - Text Preprocessing : Stemming
       - Text Preprocessing : Lemmatization
-      - Computational Linguistics Applications : N-Gram
-      - Computational Linguistics Applications : Part of speech tagging (POS)
-      - Computational Linguistics Applications : Chunking(Shallow Parsing)
-      - Computational Linguistics Applications : Named Entity Recognition(NER)
+      - Object Standardization
+      - Linguistic Features : N-Gram
+      - Linguistic Features : Part of speech tagging (POS)
+      - Linguistic Features : Chunking(Shallow Parsing)
+      - Linguistic Features : Noun Chunks
+      - Linguistic Features : Named Entity Recognition(NER)
+      - Linguistic Features : Visualization in Spacy
       - Text Feature Engineering 
       - Bag of Words
       - Text Visualisation : Bar Plot
