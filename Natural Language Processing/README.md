@@ -40,19 +40,23 @@
 
 - Text Preprocessing : Lemmatization
 
+- Linguistic Features: N-Gram
+
+- Linguistic Features: Part of speech tagging (POS)
+
+- Linguistic Features: Chunking(Shallow Parsing)
+
+- Linguistic Features : Noun Chunks
+
+- Linguistic Features: Named Entity Recognition(NER)
+
+- Linguistic Features : Visualization in Spacy
+
 ***
 
 **These subjects will be covered soon!**
 
 - NLP Intuition
-
-- Computational Linguistics Applications : N-Gram
-
-- Computational Linguistics Applications : Part of speech tagging (POS)
-
-- Computational Linguistics Applications : Chunking(Shallow Parsing)
-
-- Computational Linguistics Applications : Named Entity Recognition(NER)
 
 - Text Feature Engineering 
 
