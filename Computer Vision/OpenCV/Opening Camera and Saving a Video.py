@@ -9,7 +9,7 @@ height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 print(width, height)
 
 # save the video
-writer = cv2.VideoWriter("/Users/berkay.alan/Desktop/DS Personal/Deep Learning Courses/CV with Deep Learning - Python, OpenCV ve Keras/Tutorial/video_file.mp4", cv2.VideoWriter_fourcc(*"XVID"),20,(width, height)) # 20 is frame rate per second
+writer = cv2.VideoWriter("/images/video_file.mp4", cv2.VideoWriter_fourcc(*"XVID"),20,(width, height)) # 20 is frame rate per second
 
 while True:
     
